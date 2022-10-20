@@ -1,0 +1,23 @@
+{
+  "name": "vite-init-vue2-code",
+  "version": "1.0.0",
+  "description": "the vue2 code and learn how to create vue2 ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue2",
+    "vite",
+    "vitepress"
+  ],
+  "author": "gxc",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  }
+}
