@@ -9,7 +9,7 @@ export default {
     outDir: '../../aigouzz.github.io/vue2',
     description: 'vue2 vitepress vite vue-router vuex',
     themeConfig: {
-        logo: '/public/logo.png',
+        logo: '/logo.png',
         siteTitle: 'Vue2.0源码解析',
         nav: [
             { text: '前端架构', link: 'https://aigouzz.github.io/dist' },
